@@ -1,0 +1,257 @@
+Starting daemon...
+[Fri Mar  7 00:59:42 2025
+] Daemon started
+[Fri Mar  7 00:59:42 2025
+] Daemonizing process...
+[Fri Mar  7 00:59:42 2025
+] Daemon running... Creating processes for parallel execution.
+[Fri Mar  7 00:59:42 2025
+] Child process: wait_until_1am started.
+[Fri Mar  7 00:59:42 2025
+] Child process: listen_for_manual_trigger started.
+[Fri Mar  7 00:59:42 2025
+] Listening for manual trigger...
+[Fri Mar  7 01:00:02 2025
+] Starting report transfer at 1 AM...
+[Fri Mar  7 01:00:02 2025
+] File backed up successfully
+[Fri Mar  7 01:00:02 2025
+] File moved successfully
+[Fri Mar  7 01:00:02 2025
+] File backed up successfully
+[Fri Mar  7 01:00:02 2025
+] File moved successfully
+[Fri Mar  7 01:00:02 2025
+] File backed up successfully
+[Fri Mar  7 01:00:02 2025
+] File moved successfully
+[Fri Mar  7 01:00:03 2025
+] Starting report transfer at 1 AM...
+[Fri Mar  7 01:00:03 2025
+] Warning: Some reports were not uploaded by 11:30 PM.
+Stopping daemon...
+[Fri Mar  7 01:20:55 2025
+] Daemon received SIGTERM. Stopping gracefully...
+[Fri Mar  7 01:20:55 2025
+] Daemon received SIGTERM. Stopping gracefully...
+[Fri Mar  7 01:20:55 2025
+] Daemon received SIGTERM. Stopping gracefully...
+[Fri Mar  7 01:20:55 2025
+] Daemon received SIGTERM. Stopping gracefully...
+Starting daemon...
+[Fri Mar  7 01:21:01 2025
+] Daemon started
+[Fri Mar  7 01:21:01 2025
+] Daemonizing process...
+[Fri Mar  7 01:21:01 2025
+] Daemon running... Creating processes for parallel execution.
+[Fri Mar  7 01:21:01 2025
+] Child process: listen_for_manual_trigger started.
+[Fri Mar  7 01:21:01 2025
+] Listening for manual trigger...
+[Fri Mar  7 01:21:01 2025
+] Child process: wait_until_1am started.
+[Fri Mar  7 01:21:28 2025
+] chk 1
+[Fri Mar  7 01:21:28 2025
+] chk 2
+[Fri Mar  7 01:21:28 2025
+] Received command from FIFO.
+[Fri Mar  7 01:21:28 2025
+] backup
+
+[Fri Mar  7 01:21:28 2025
+] Manual backup triggered...
+[Fri Mar  7 01:21:28 2025
+] File backed up successfully
+[Fri Mar  7 01:21:28 2025
+] File moved successfully to reports: test_report copy.xml
+[Fri Mar  7 01:21:28 2025
+] File backed up successfully
+[Fri Mar  7 01:21:28 2025
+] File moved successfully to reports: test_report.xml
+[Fri Mar  7 01:21:28 2025
+] File backed up successfully
+[Fri Mar  7 01:21:28 2025
+] File moved successfully to reports: test_report copy 3.xml
+[Fri Mar  7 01:21:28 2025
+] chk 3
+Stopping daemon...
+[Fri Mar  7 01:22:09 2025
+] Daemon received SIGTERM. Stopping gracefully...
+[Fri Mar  7 01:22:09 2025
+] Daemon received SIGTERM. Stopping gracefully...
+[Fri Mar  7 01:22:09 2025
+] Daemon received SIGTERM. Stopping gracefully...
+Starting daemon...
+[Fri Mar  7 02:07:14 2025
+] Daemon started
+[Fri Mar  7 02:07:14 2025
+] Daemonizing process...
+[Fri Mar  7 02:07:14 2025
+] Daemon running... Creating processes for parallel execution.
+[Fri Mar  7 02:07:14 2025
+] Child process: listen_for_manual_trigger started.
+[Fri Mar  7 02:07:14 2025
+] Listening for manual trigger...
+[Fri Mar  7 02:07:14 2025
+] Child process: wait_until_1am started.
+
+
+
+.Stopping daemon...
+[Fri Mar  7 03:17:58 2025
+] Daemon received SIGTERM. Stopping gracefully...
+[Fri Mar  7 03:17:58 2025
+] Daemon received SIGTERM. Stopping gracefully...
+[Fri Mar  7 03:17:58 2025
+] Daemon received SIGTERM. Stopping gracefully...
+
+
+
+********************************************
+Starting daemon...
+[Sat Mar  8 00:59:46 2025
+] Daemon started
+[Sat Mar  8 00:59:46 2025
+] Daemonizing process...
+[Sat Mar  8 00:59:46 2025
+] Daemon running... Creating processes for parallel execution.
+[Sat Mar  8 00:59:46 2025
+] Child process: wait_until_1am started.
+[Sat Mar  8 00:59:46 2025
+] Child process: listen_for_manual_trigger started.
+[Sat Mar  8 00:59:46 2025
+] Listening for manual trigger...
+[Sat Mar  8 01:00:01 2025
+] Starting report transfer at 1 AM...
+[Sat Mar  8 01:00:01 2025
+] File backed up successfully
+[Sat Mar  8 01:00:01 2025
+] File moved successfully to reports: test_report copy.xml
+[Sat Mar  8 01:00:01 2025
+] File backed up successfully
+[Sat Mar  8 01:00:01 2025
+] File moved successfully to reports: test_report.xml
+[Sat Mar  8 01:00:54 2025
+] chk 1
+[Sat Mar  8 01:00:54 2025
+] chk 2
+[Sat Mar  8 01:00:54 2025
+] Received command from FIFO.
+[Sat Mar  8 01:00:54 2025
+] backup
+
+[Sat Mar  8 01:00:54 2025
+] Manual backup triggered...
+[Sat Mar  8 01:00:54 2025
+] File backed up successfully
+[Sat Mar  8 01:00:54 2025
+] File moved successfully to reports: 545 test_report copy.xml
+[Sat Mar  8 01:00:54 2025
+] chk 3
+Starting daemon...
+[Sat Mar  8 00:59:45 2025
+] Daemon started
+[Sat Mar  8 00:59:45 2025
+] Daemonizing process...
+[Sat Mar  8 00:59:45 2025
+] Daemon running... Creating processes for parallel execution.
+[Sat Mar  8 00:59:45 2025
+] Child process: wait_until_1am started.
+[Sat Mar  8 00:59:45 2025
+] Child process: listen_for_manual_trigger started.
+[Sat Mar  8 00:59:45 2025
+] Listening for manual trigger...
+[Sat Mar  8 01:00:00 2025
+] Starting report transfer at 1 AM...
+[Sat Mar  8 01:00:00 2025
+] Warning: Some reports were not uploaded by 11:30 PM.
+[Sat Mar  8 01:00:00 2025
+] File backed up successfully
+[Sat Mar  8 01:00:00 2025
+] File moved successfully to reports: report copy.xml
+
+***********************************************************
+
+Starting daemon...
+[Sat Mar  8 00:59:44 2025
+] Daemon started
+[Sat Mar  8 00:59:44 2025
+] Daemonizing process...
+[Sat Mar  8 00:59:44 2025
+] Daemon running... Creating processes for parallel execution.
+[Sat Mar  8 00:59:44 2025
+] Child process: listen_for_manual_trigger started.
+[Sat Mar  8 00:59:44 2025
+] Listening for manual trigger...
+[Sat Mar  8 00:59:44 2025
+] Child process: wait_until_1am started.
+[Sat Mar  8 01:00:04 2025
+] Starting report transfer at 1 AM...
+[Sat Mar  8 01:00:04 2025
+] File backed up successfully
+[Sat Mar  8 01:00:04 2025
+] File moved successfully to reports: report copy.xml
+[Sat Mar  8 01:00:04 2025
+] File backed up successfully
+[Sat Mar  8 01:00:04 2025
+] File moved successfully to reports: test_report.xml
+[Sat Mar  8 01:00:48 2025
+] chk 1
+[Sat Mar  8 01:00:48 2025
+] chk 2
+[Sat Mar  8 01:00:48 2025
+] Received command from FIFO.
+[Sat Mar  8 01:00:48 2025
+] backup
+
+[Sat Mar  8 01:00:48 2025
+] Manual backup triggered...
+[Sat Mar  8 01:00:48 2025
+] File backed up successfully
+[Sat Mar  8 01:00:48 2025
+] File moved successfully to reports: 545 test_report copy.xml
+[Sat Mar  8 01:00:48 2025
+] chk 3
+[Sat Mar  8 01:00:48 2025
+] chk 1
+[Sat Mar  8 01:00:48 2025
+] chk 2
+[Sat Mar  8 01:00:48 2025
+] No data read from FIFO.
+[Sat Mar  8 01:00:48 2025
+] chk 3
+Stopping daemon...
+[Sat Mar  8 01:01:22 2025
+] Daemon received SIGTERM. Stopping gracefully...
+[Sat Mar  8 01:01:22 2025
+] Daemon received SIGTERM. Stopping gracefully...
+
+************************
+Starting daemon...
+[Sat Mar  8 00:59:44 2025
+] Daemon started
+[Sat Mar  8 00:59:44 2025
+] Daemonizing process...
+[Sat Mar  8 00:59:44 2025
+] Daemon running... Creating processes for parallel execution.
+[Sat Mar  8 00:59:44 2025
+] Child process: wait_until_1am started.
+[Sat Mar  8 00:59:44 2025
+] Child process: listen_for_manual_trigger started.
+[Sat Mar  8 00:59:44 2025
+] Listening for manual trigger...
+[Sat Mar  8 01:00:04 2025
+] Starting report transfer at 1 AM...
+[Sat Mar  8 01:00:04 2025
+] Warning: Some reports were not uploaded by 11:30 PM.
+[Sat Mar  8 01:00:04 2025
+] File backed up successfully
+[Sat Mar  8 01:00:04 2025
+] File moved successfully to reports: test_report copy.xml
+Stopping daemon...
+[Sat Mar  8 01:05:30 2025
+] Daemon received SIGTERM. Stopping gracefully...
+[Sat Mar  8 01:05:30 2025
+] Daemon received SIGTERM. Stopping gracefully...
